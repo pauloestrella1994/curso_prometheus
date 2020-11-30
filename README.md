@@ -11,3 +11,7 @@ To run the application:
 `node ./index.js`
 
 you can see the runnig application in your localhost, and the metrics in `/metrics` endpoint.
+
+To run prometheus-container:
+
+`make prometheus-container`
